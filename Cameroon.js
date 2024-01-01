@@ -60,6 +60,17 @@ color: "teal"
 });
 });
 
+//Previous page 
+function burundi(){
+open("https://salmandascript.github.io/Burundi/Burundi.html");
+}
+
+//Next page 
+function capeVerde(){
+open("https://salmandascript.github.io/CapeVerde/CapeVerde.html");
+}
+
+
 //quizz questions code 
 function checkAnswer()
   {
